@@ -11,7 +11,7 @@
 ![Vue](https://img.shields.io/badge/vue-3.4-7c3aed?style=flat-square&logo=vue.js&logoColor=white)
 ![License](https://img.shields.io/badge/license-MIT-a78bfa?style=flat-square)
 
-**`CA: G4024 — TBA`**
+**`CA: GN402 — TBA`**
 
 </div>
 
